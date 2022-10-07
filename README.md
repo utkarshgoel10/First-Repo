@@ -13,8 +13,8 @@ This is a masonry grid which is used by pinterest, unsplash like websites. It's 
 
 ### Screenshot
 
-![](./demo/ss.png)
-![](./demo/ss-mobile.png)
+![](./demo/ss1.png)
+![](./demo/ss2.png)
 
 ## My process
 
